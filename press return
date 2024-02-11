@@ -1,0 +1,59 @@
+[33mcommit f3b4101b2558989dcbb49276e1f68f7470f21226[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 05:19:49 2024 +0000
+
+    userinfo
+
+[33mcommit 5889bb6a715b80423f79d290e9a87d4140c0990b[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 05:15:45 2024 +0000
+
+    added aaa.java file
+
+[33mcommit ac8b02db84be8a40afb3f2993226dcd19bf51d96[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 05:13:27 2024 +0000
+
+    bbb.php
+
+[33mcommit bafb45e363029e1dcd9950bd0b16c07b188e2dc0[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 05:08:44 2024 +0000
+
+    .gitignore
+
+[33mcommit 57c14a6b3e9a9cdf446bd0c1ee3d906d79ed2303[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 04:52:13 2024 +0000
+
+    ignored .net,.py,.cpp file extensions
+
+[33mcommit 304e58b291c925b8715e1cbd673131b5901cd374[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 04:27:29 2024 +0000
+
+    shadow
+
+[33mcommit b38a04b024959e7e119f6dfe21179c21e836a132[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 04:26:03 2024 +0000
+
+    group
+
+[33mcommit 545f18448e3e7f09c8bf560bbcd825762646c73f[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sun Feb 11 04:12:05 2024 +0000
+
+    passwd
+
+[33mcommit aa0e1e65a8c1713c723a9f0d63c6c22ad54df7e5[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sat Feb 10 10:08:53 2024 +0000
+
+    added new files
+
+[33mcommit bdf250c382869bde4a90b966312582ede5c6b633[m
+Author: dharma <dharma@cloudbots.in>
+Date:   Sat Feb 10 10:05:16 2024 +0000
+
+    first1.java
